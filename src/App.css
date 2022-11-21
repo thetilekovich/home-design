@@ -1,0 +1,12 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+body{
+    background: wheat;
+}
+a{
+text-decoration: none;
+color:wheat;
+}

@@ -1,0 +1,22 @@
+.menu a{
+    font-size: 20px;
+    margin: 0 10px 0 10px;
+    position: relative;
+    z-index: 5;
+    color: aqua;
+    font-weight: 800;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;    
+}
+.logo{
+    color: aqua;
+    font-size: 30px;
+    position: relative;
+    z-index: 5;
+    font-weight: 900;
+}
