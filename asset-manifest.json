@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/home-design/static/css/main.be93a3e5.css",
+    "main.js": "/home-design/static/js/main.6f1d6796.js",
+    "static/js/787.9979f689.chunk.js": "/home-design/static/js/787.9979f689.chunk.js",
+    "static/media/homeBg.png": "/home-design/static/media/homeBg.d08b3a9915ba724e1796.png",
+    "static/media/aboutTwo.png": "/home-design/static/media/aboutTwo.e954b53250016c62b84d.png",
+    "static/media/aboutZero.png": "/home-design/static/media/aboutZero.117dd9e9f8e27bc5726e.png",
+    "static/media/aboutThree2.png": "/home-design/static/media/aboutThree2.80d89e0ee891cdd6a625.png",
+    "static/media/aboutThree1.png": "/home-design/static/media/aboutThree1.5d8b9de5161e4f7b02f4.png",
+    "static/media/aboutOne1.png": "/home-design/static/media/aboutOne1.974cf08b3b02f1a37060.png",
+    "static/media/aboutOne2.png": "/home-design/static/media/aboutOne2.a498afb4afef60043d2e.png",
+    "static/media/aboutOne3.png": "/home-design/static/media/aboutOne3.c583f98b28583f533710.png",
+    "static/media/d-man.jpg": "/home-design/static/media/d-man.0927201a9122f9852a7e.jpg",
+    "static/media/team-w.jpg": "/home-design/static/media/team-w.02a501d09ca0c28fc7cb.jpg",
+    "static/media/team-scene.jpg": "/home-design/static/media/team-scene.286208cfb0ab0784739f.jpg",
+    "static/media/team-scene2.jpg": "/home-design/static/media/team-scene2.4618bc3c94684bf2a2bb.jpg",
+    "static/media/profile.svg": "/home-design/static/media/profile.7a0122ed219fc2e9cda1f4b91d1a2ec8.svg",
+    "static/media/instagram.svg": "/home-design/static/media/instagram.697cc6e45ed2b1ac376920e792fc2404.svg",
+    "static/media/next.svg": "/home-design/static/media/next.ee7ff05368bd436bda441885a76f5dac.svg",
+    "static/media/prev.svg": "/home-design/static/media/prev.d99cfdeb737a7b83f63cab81781b68d5.svg",
+    "static/media/linkedin.svg": "/home-design/static/media/linkedin.3212cf129899ed66bb78bcfa0ac72bd3.svg",
+    "static/media/twitter.svg": "/home-design/static/media/twitter.9acd38e90163f220e03e7b4dbf6a1854.svg",
+    "static/media/arrow.svg": "/home-design/static/media/arrow.c0a6fdff65f3dc2a5c2319af5ed538f5.svg",
+    "index.html": "/home-design/index.html",
+    "static/media/facebook.svg": "/home-design/static/media/facebook.4eeed833c7f4e929b88123291aeffd2d.svg",
+    "main.be93a3e5.css.map": "/home-design/static/css/main.be93a3e5.css.map",
+    "main.6f1d6796.js.map": "/home-design/static/js/main.6f1d6796.js.map",
+    "787.9979f689.chunk.js.map": "/home-design/static/js/787.9979f689.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be93a3e5.css",
+    "static/js/main.6f1d6796.js"
+  ]
+}
